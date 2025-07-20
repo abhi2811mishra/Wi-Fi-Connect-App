@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
-        fontFamily: 'Inter', // Using Inter font as per instructions
+        fontFamily: 'Inter', 
       ),
       home: const HomeScreen(),
     );
