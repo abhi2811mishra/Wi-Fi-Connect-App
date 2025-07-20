@@ -11,7 +11,7 @@ A Flutter app to scan, list, and manage Wi-Fi connections using platform capabil
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://drive.google.com/file/d/1BZUWCCjIA72riB_ZRjpCcnMNMfBPS_0Z/view?usp=sharing)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-blue?logo=google-drive)](https://drive.google.com/file/d/1BZUWCCjIA72riB_ZRjpCcnMNMfBPS_0Z/view?usp=sharing)
 
 ---
 
